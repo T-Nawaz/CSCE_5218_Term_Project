@@ -50,9 +50,10 @@ pip install jupyter
 ```
 jupyter notebook
 ```
+### This will open Jupyter in your default web browser. Navigate to and open the notebook file TermProjectDL.ipynb
+
 ## Step 5: Run the Notebook
 Once the notebook is open:
-
 * Select "Kernel" > "Restart & Run All" to execute all cells from the beginning
 * Or run each cell individually by selecting it and pressing Shift+Enter
 
