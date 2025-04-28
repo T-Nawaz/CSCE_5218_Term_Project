@@ -16,8 +16,8 @@ This document provides step-by-step instructions to run this notebook on your lo
 Open a terminal or command prompt and run:
 
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/T-Nawaz/CSCE_5218_Term_Project.git
+cd CSCE_5218_Term_Project
 ```
 
 ## Step 2: Set Up a Virtual Environment (Recommended)
