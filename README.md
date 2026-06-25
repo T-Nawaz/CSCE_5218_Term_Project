@@ -1,4 +1,5 @@
-# CSCE 5218 Term Project Group 2
+# EmojiBert
+## CSCE 5218 Term Project Group 2
 
 # Running this Notebook Locally
 
@@ -16,8 +17,8 @@ This document provides step-by-step instructions to run this notebook on your lo
 Open a terminal or command prompt and run:
 
 ```
-git clone https://github.com/T-Nawaz/CSCE_5218_Term_Project.git
-cd CSCE_5218_Term_Project
+git clone https://github.com/T-Nawaz/EmojiBert.git
+cd EmojiBert
 ```
 
 ## Step 2: Set Up a Virtual Environment (Recommended)
